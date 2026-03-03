@@ -1,0 +1,24 @@
+# Authentication System (C++)
+
+## Overview
+This project implements a console-based authentication system that allows users to register and log in securely through structured input validation.
+
+## Features
+- User registration
+- Login verification
+- Credential validation
+- Modular file structure
+
+## Technical Structure
+- main.cpp → Program entry point
+- auth.h → Function declarations
+- auth.cpp → Function implementations
+
+## Concepts Demonstrated
+- File handling
+- Conditional statements
+- Modular programming
+- Input validation logic
+
+## Purpose
+To simulate a basic authentication workflow and demonstrate structured program design in C++.
