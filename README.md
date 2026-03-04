@@ -13,6 +13,7 @@ A console-based banking application that simulates core financial operations suc
 ### 3. GPA Calculator
 An academic GPA calculator designed to compute grade point averages based on subject grades and credit hours.
 
+
 ## Technical Implementation
 
 All projects are developed using:
