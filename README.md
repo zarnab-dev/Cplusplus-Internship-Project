@@ -10,8 +10,8 @@ A basic user authentication system implementing registration and login functiona
 ### 2. Banking Management System
 A console-based banking application that simulates core financial operations such as account creation, deposits, withdrawals, and balance inquiry.
 
-### 3. GPA Calculator
-An academic GPA calculator designed to compute grade point averages based on subject grades and credit hours.
+### 3. CGPA Calculator
+An academic CGPA calculator designed to compute grade point averages based on subject grades and credit hours.
 
 
 ## Technical Implementation
